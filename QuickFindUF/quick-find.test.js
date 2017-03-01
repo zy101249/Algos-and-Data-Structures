@@ -1,7 +1,7 @@
 const expect = require('chai').expect;
 const QuickFindUF = require('./quick-findStart');
 
-describe.only('Quick Find Union Find Algorithm', () => {
+xdescribe('Quick Find Union Find Algorithm', () => {
   describe('QuickFindUF', () => {
 
     let newQF;
